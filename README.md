@@ -33,7 +33,8 @@ conn.send(data.encode())
 
 conn.close()
 server_socket.close()
-
+```
+```
 CLIENT
 
 import socket
